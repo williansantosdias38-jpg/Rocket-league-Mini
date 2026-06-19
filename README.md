@@ -24,3 +24,4 @@ Também funcionam as setas do teclado:
 ↓ = baixo
 ← = esquerda
 → = direita
+"Eu abro o projeto no Visual Studio Code, abro o terminal e executo o arquivo do jogo. O Python interpreta o código e o Pygame Zero abre uma janela com o jogo funcionando. Depois é só usar o teclado para controlar o carro e jogar."
